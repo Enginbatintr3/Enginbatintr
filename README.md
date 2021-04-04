@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Engin 13 years old I am a junior flutter developer. I have been dealing with software since I was 12 years old. You can speak to me in 2 languages.
 
 <!--
 **Enginbatintr/Enginbatintr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
