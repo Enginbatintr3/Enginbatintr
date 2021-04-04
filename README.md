@@ -1,4 +1,5 @@
-### Hi there 👋 I am Engin 13 years old I am a junior flutter developer. I have been dealing with software since I was 12 years old. You can speak to me in 2 languages.
+### Hi there 👋 I am Engin 13 years old I am a junior flutter developer. I have been dealing with software since I was 12 years old. You can speak to me in 2 languages. ***🇬🇧Engslih***, ***🇹🇷Turkish.***
+:tr
 
 <!--
 **Enginbatintr/Enginbatintr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +18,7 @@ Here are some ideas to get you started:
 
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <a>  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
+## Interests
+
+<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
