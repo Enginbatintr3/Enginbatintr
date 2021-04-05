@@ -1,4 +1,4 @@
-### Hi there 👋 I am Engin 13 years old I am a junior flutter developer. I have been dealing with software since I was 12 years old. You can speak to me in 2 languages. ***🇬🇧Engslih***, ***🇹🇷Turkish.***
+### Hi there 👋 I am Engin 13 years old I am a junior Flutter Developer. I have been dealing with software since I was 12 years old. You can speak to me in 2 languages. ***🇬🇧Engslih***, ***🇹🇷Turkish.***
 
 
 <!--
